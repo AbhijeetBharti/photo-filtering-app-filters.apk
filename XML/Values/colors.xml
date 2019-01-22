@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF2d55</color><!--Background color for AppBar-->
+    <color name="colorPrimaryDark">#D12647</color><!--i ignore its use-->
+    <color name="colorAccent">#FF4081</color><!--color effects, EditText, RadioButtons...-->
+</resources>
